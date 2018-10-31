@@ -21,3 +21,8 @@ print('Hacktoberfest')
 # GITHUB: https://github.com/yudartcode
 print('Hi All!')
 print('Hacktoberfest 2018')
+
+# AUTHOR: Noble Sword
+# GITHUB: https://github.com/noblesword
+print('Hey guyz Letz do some programming')
+print('Hacktoberfest 2018')
